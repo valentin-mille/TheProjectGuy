@@ -22,6 +22,6 @@
   <a href="https://www.linkedin.com/in/valentin-mille-640a24176/">
   <img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"/></a>
     <a href="https://www.malt.fr/profile/valentinmille">
-  <img height="40" src=""/></a>
+  <img height="40" src="https://github.com/theprojectguy/Icons/blob/main/malt.png?raw=true"/></a>
 </p>
 <br />
